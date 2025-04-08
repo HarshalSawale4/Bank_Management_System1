@@ -1,0 +1,28 @@
+-----------------------------VISIT: alphacodecamp.com.ng FOR MORE PROJECTS-------------------------------
+-----------------------------VISIT: alphacodecamp.com.ng FOR MORE PROJECTS-------------------------------
+-----------------------------VISIT: alphacodecamp.com.ng FOR MORE PROJECTS-------------------------------
+-----------------------------VISIT: alphacodecamp.com.ng FOR MORE PROJECTS-------------------------------
+
+-----Database Name: internetbanking_db-----
+
+-----Developed by Martin Mbithi-----
+
+-----Recommended PHP Version 5, 7, 8-----
+
+
+----Admin Login Details----
+
+Email	: admin@mail.com
+Password: alphacodecamp.com.ng
+
+
+---Staff Login Details---
+
+Email	: staff@mail.com
+Password: alphacodecamp.com.ng
+
+
+-----------------------------VISIT: alphacodecamp.com.ng FOR MORE PROJECTS-------------------------------
+-----------------------------VISIT: alphacodecamp.com.ng FOR MORE PROJECTS-------------------------------
+-----------------------------VISIT: alphacodecamp.com.ng FOR MORE PROJECTS-------------------------------
+-----------------------------VISIT: alphacodecamp.com.ng FOR MORE PROJECTS-------------------------------
